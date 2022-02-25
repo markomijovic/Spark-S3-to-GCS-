@@ -10,7 +10,7 @@ A small scale demo app on how to utilize Apache Spark connectors for AWS S3 and 
 to GCS.
 
 # Architecture
-![img_1.png](img_2.png)
+![img_2.png](img_2.png)
 
 # Setup Guide
 1. Clone repo
